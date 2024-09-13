@@ -1,34 +1,39 @@
 # Hello, I'm Abraham Eshetu
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abr-ahamis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-I am focused on penetration testing and security analysis, aiming to excel in these areas and contribute effectively to the field of cybersecurity.
+I aim to become a Penetration Tester and Security Analyst.
 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | Detection Lab              |
-| Security Automation and Incident Response    | SOC Automation Lab         |
-| Case Management with TheHive                  | SOC Automation Lab         |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab         |
+| Mobile Hacking and PC Hacking                 | [Project Link](#)          |
+| Creating Malware Apps and PDFs                | [Project Link](#)          |
+| Phishing and Spamming                         | [Project Link](#)          |
+| Password Cracking and Hacking Wi-Fi           | [Project Link](#)          |
+| Capturing Network Traffic                     | [Project Link](#)          |
+| Firewall Configuration                        | [Project Link](#)          |
+| Using Linux OS (Kali, Ubuntu, Arch)           | [Project Link](#)          |
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bettercap-CCB207?&style=for-the-badge&logo=Bettercap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bettercap-00B2A9?&style=for-the-badge&logo=Bettercap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004B49?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Metasploit-4C9ED9?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FD8D12?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John_the_Ripper-000000?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-0E1D1D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FD0000?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John_the_Ripper-00FF00?&style=for-the-badge&logo=John_the_Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=Hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-King_Phishing-1F77D0?&style=for-the-badge&logo=King_Phishing&logoColor=white" />
 </div>
 
 ### SIEM
@@ -44,5 +49,4 @@ I am focused on penetration testing and security analysis, aiming to excel in th
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- No specific projects listed

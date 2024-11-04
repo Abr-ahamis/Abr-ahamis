@@ -1,7 +1,7 @@
 # Hello, I'm Abraham Eshetu
 <a href="https://www.linkedin.com/in/abr-ahamis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+
 Hello! I’m Abraham Eshetu, a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. My hands-on experience with various hacking techniques, tools, and technologies has equipped me with a solid foundation in cybersecurity. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abr-ahamis) to discuss potential opportunities or to learn more about my background and experiences.
@@ -13,13 +13,13 @@ I aim to become a Penetration Tester and Security Analyst.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Mobile Hacking and PC Hacking                 | [Project Link](#)          |
-| Creating Malware Apps and PDFs                | [Project Link](#)          |
-| Phishing and Spamming                         | [Project Link](#)          |
-| Password Cracking and Hacking Wi-Fi           | [Project Link](#)          |
-| Capturing Network Traffic                     | [Project Link](#)          |
-| Firewall Configuration                        | [Project Link](#)          |
-| Using Linux OS (Kali, Ubuntu, Arch)           | [Project Link](#)          |
+| Mobile Hacking and PC Hacking                 | [tool](https://github.com/karma9874/AndroRAT.git)          |
+| Creating Malware Apps and PDFs                | [tool](https://github.com/surrealyz/pdfclassifier.git)          |
+| Phishing and Spamming                         | [tool](https://github.com/rsmusllp/king-phisher.git)          |
+| Password Cracking and Hacking Wi-Fi           | [tool](https://www.google.com/search?q=aircrack-ng&oq=air&gs_lcrp=EgZjaHJvbWUqDQgAEAAYkQIYgAQYigUyDQgAEAAYkQIYgAQYigUyBggBEEUYOTINCAIQABiRAhiABBiKBTIYCAMQLhhDGMcBGLEDGMkDGNEDGIAEGIoFMgoIBBAAGJIDGIAEMg0IBRAAGJIDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMg0ICBAAGIMBGLEDGIAEMgcICRAAGI8C0gEJMTAxMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)          |
+| Capturing Network Traffic                     | [tool](https://github.com/HalilDeniz/PacketSpy.git)          |
+| Firewall Configuration                        | [tool](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide.git)          |
+| Using Linux OS (Kali, Ubuntu, Arch)           | [tool](https://www.google.com/search?q=linux+os&oq=linux+os+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgzNjUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)          |
 
 ## Tools
 ### Network

@@ -13,13 +13,13 @@ I aim to become a Penetration Tester and Security Analyst.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Mobile Hacking and PC Hacking                 | [tool](https://github.com/karma9874/AndroRAT.git)          |
-| Creating Malware Apps and PDFs                | [tool](https://github.com/surrealyz/pdfclassifier.git)          |
-| Phishing and Spamming                         | [tool](https://github.com/rsmusllp/king-phisher.git)          |
-| Password Cracking and Hacking Wi-Fi           | [tool](https://www.google.com/search?q=aircrack-ng&oq=air&gs_lcrp=EgZjaHJvbWUqDQgAEAAYkQIYgAQYigUyDQgAEAAYkQIYgAQYigUyBggBEEUYOTINCAIQABiRAhiABBiKBTIYCAMQLhhDGMcBGLEDGMkDGNEDGIAEGIoFMgoIBBAAGJIDGIAEMg0IBRAAGJIDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMg0ICBAAGIMBGLEDGIAEMgcICRAAGI8C0gEJMTAxMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)          |
-| Capturing Network Traffic                     | [tool](https://github.com/HalilDeniz/PacketSpy.git)          |
-| Firewall Configuration                        | [tool](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide.git)          |
-| Using Linux OS (Kali, Ubuntu, Arch)           | [tool](https://www.google.com/search?q=linux+os&oq=linux+os+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgzNjUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)          |
+| Mobile Hacking and PC Hacking                 | [AndroRAT](https://github.com/karma9874/AndroRAT.git)          |
+| Creating Malware Apps and PDFs                | [SKT](https://github.com/surrealyz/pdfclassifier.git)          |
+| Phishing and Spamming                         | [king-phisher](https://github.com/rsmusllp/king-phisher.git)          |
+| Password Cracking and Hacking Wi-Fi           | [Aircrack](https://www.google.com/search?q=aircrack-ng&oq=air&gs_lcrp=EgZjaHJvbWUqDQgAEAAYkQIYgAQYigUyDQgAEAAYkQIYgAQYigUyBggBEEUYOTINCAIQABiRAhiABBiKBTIYCAMQLhhDGMcBGLEDGMkDGNEDGIAEGIoFMgoIBBAAGJIDGIAEMg0IBRAAGJIDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMg0ICBAAGIMBGLEDGIAEMgcICRAAGI8C0gEJMTAxMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)          |
+| Capturing Network Traffic                     | [wireshark](https://github.com/HalilDeniz/PacketSpy.git)          |
+| Firewall Configuration                        | [windows difender](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide.git)          |
+| Using Linux OS                                | [Kali, Ubuntu, Arch](https://www.google.com/search?q=linux+os&oq=linux+os+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgzNjUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)          |
 
 ## Tools
 ### Network

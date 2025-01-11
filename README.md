@@ -51,4 +51,6 @@ I aim to become a Penetration Tester and Security Analyst.
 </div>
 
 ## Projects
-- No specific projects listed
+- **[Firewall Project](https://github.com/Abr-ahamis/Firewall-project)**: A custom firewall implementation to control and monitor network traffic.
+- **[Keylogger](https://github.com/Abr-ahamis/Keylogger)**: A basic keylogger developed for educational purposes to demonstrate how keystrokes can be captured.
+- **[Password Cracker](https://github.com/Abr-ahamis/password)**: A password-cracking tool that showcases brute-force and dictionary attack techniques.

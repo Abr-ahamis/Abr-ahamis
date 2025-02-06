@@ -1,8 +1,8 @@
-# Hello, I'm Abraham Eshetu
+# Hello, I'm Abraham Eshetu 
 <a href="https://www.linkedin.com/in/abr-ahamis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Hello! I’m Abraham,a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. My hands-on experience with various hacking techniques, tools, and technologies has equipped me with a solid foundation in cybersecurity. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.
+Hello! I’m Abraham Eshetu,a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. My hands-on experience with various hacking techniques, tools, and technologies has equipped me with a solid foundation in cybersecurity. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abr-ahamis) to discuss potential opportunities or to learn more about my background and experiences.
 

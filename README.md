@@ -9,7 +9,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abr-ahami
 <div style="margin-top: 20px;">
     <h3>My TryHackMe Progress</h3>
     <!-- Embed TryHackMe Badge -->
-    <img src="[https://tryhackme.com/badge/4020819](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4020819)" alt="TryHackMe Badge" style="border:none; width: 200px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Abrahamis.png" alt="Your Image Badge" />
 </div>
 
 

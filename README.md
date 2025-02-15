@@ -3,13 +3,11 @@
 
 Hello! I’m Abraham, a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. My hands-on experience with various hacking techniques, tools, and technologies has equipped me with a solid foundation in cybersecurity. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abr-ahamis) to discuss potential opportunities or to learn more about my background and experiences.
-
 <!-- TryHackMe Badge Section -->
 <div style="margin-top: 20px;">
-    <h3>My TryHackMe Progress</h3>
-    <!-- Embed TryHackMe Badge -->
+    <h4>My TryHackMe Progress</h4>
     <img src="https://tryhackme-badges.s3.amazonaws.com/Abrahamis.png" alt="Your Image Badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4020819" style='border:none;'></iframe>
 </div>
 
 
@@ -55,6 +53,8 @@ I aim to become a Penetration Tester and Security Analyst.
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+
 
 ## Projects
 - **[Firewall Project](https://github.com/Abr-ahamis/Firewall-project)**: A custom firewall implementation to control and monitor network traffic.

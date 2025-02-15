@@ -8,8 +8,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abr-ahami
 <!-- TryHackMe Badge Section -->
 <div style="margin-top: 20px;">
     <h3>My TryHackMe Progress</h3>
-    <img src="https://tryhackme.com/badge/4020819" alt="TryHackMe Badge" style="border:none; width: 200px;">
+    <!-- Embed TryHackMe Badge -->
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4020819" style="border:none; width: 100%; height: 150px;"></iframe>
 </div>
+
 
 ## Objective
 I aim to become a Penetration Tester and Security Analyst.

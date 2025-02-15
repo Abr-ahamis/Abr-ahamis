@@ -6,7 +6,7 @@ Hello! I’m Abraham, a passionate and motivated individual with a deep interest
 <!-- TryHackMe Badge Section -->
 <div style="margin-top: 20px;">
     <h4>My TryHackMe Progress</h4>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Abrahamis.png" alt="Your Image Badge" />   ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4020819)
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Abrahamis.png" alt="Your Image Badge" />   <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4020819" alt="badge" />
 </div>
 
 

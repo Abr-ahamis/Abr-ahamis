@@ -5,9 +5,8 @@ Hello! I’m Abraham, a passionate and motivated individual with a deep interest
 
 <!-- TryHackMe Badge Section -->
 <div style="margin-top: 20px;">
-    <h4>My TryHackMe Progress</h4>
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Abrahamis.png)](https://tryhackme.com/p/Abrahamis)
+    
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/Abrahamis)
 
 </div>
 

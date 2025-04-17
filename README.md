@@ -119,11 +119,14 @@ Aspiring to become a security Tester and Security Analyst.
 - **🔓 [Auth Bypass Toolkit](https://github.com/Abr-ahamis/Firewall-project)**  
   A custom toolkit in Python/Flask for session hijacking and auth bypass in web apps.
 
-- **🐍 [Python Exploit Scripts](https://github.com/Abr-ahamis/password)**  
+- **🐍 [Python Exploit Scripts](https://github.com/Abr-ahamis/Image-Stego-Encryptor)**  
   Collection of automated exploit scripts used across multiple CTF rooms.
 
 - **🌐 [WebScanner](https://github.com/Abr-ahamis/WebScanner)**  
+  Both examples are minimal and meant to help you understand how keylogging works
+  
+- **🌐 [keylogger](https://github.com/Abr-ahamis/Python-and-C-Keyloggers)**  
   Go/JavaScript app for scanning and reporting OWASP Top 10 vulnerabilities.
-
-- **🔍 [Traffic Analyzer](https://github.com/Abr-ahamis/PacketSpy)**  
+  
+- **🔍 [Traffic Analyzer](https://github.com/Abr-ahamis/Network.py)**  
   Wireshark/Scapy‑powered tool for deep packet inspection in capture‑the‑flag scenarios.

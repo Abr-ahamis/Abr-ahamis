@@ -1,12 +1,10 @@
-# 👋 Hello, I'm Abraham
-
 <a href="https://www.linkedin.com/in/abr-ahamis">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>('*'_'*')<a href="https://irradiated-rule-1a1.notion.site/1c77f186568a8028b4b7d05602e40b49?v=1c77f186568a80f0a675000cee07a9dc" target="_blank">
+  <img src="https://img.shields.io/badge/Room%20Challenges%20Writeups-red?style=for-the-badge&logo=internet-explorer&logoColor=white&logoWidth=30" alt="Room Challenges Writeups Badge">
 
+# 👋 Hello, I'm Abraham
 
-
-## 🧠 About Me
 
 I'm a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.
 

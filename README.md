@@ -4,9 +4,17 @@
 Hello! I’m Abraham, a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. My hands-on experience with various hacking techniques, tools, and technologies has equipped me with a solid foundation in cybersecurity. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.
 
 <!-- TryHackMe Badge Section -->
-<div style="margin-top: 20px;">
-    
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/Abrahamis)
+<div style="margin-top: 20px; text-align: center;">
+
+  <!-- TryHackMe badge image -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Abrahamis.png" alt="Your Image Badge" style="max-width: 100%; height: auto;" />
+
+  <!-- TryHackMe profile link with badge -->
+  <div style="margin-top: 10px;">
+    <a href="https://tryhackme.com/p/Abrahamis" target="_blank">
+      <img src="https://img.shields.io/badge/TryHackMe-Profile-red" alt="TryHackMe Profile Badge" />
+    </a>
+  </div>
 
 </div>
 

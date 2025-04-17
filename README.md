@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/abr-ahamis">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>('*'_'*')<a href="https://irradiated-rule-1a1.notion.site/1c77f186568a8028b4b7d05602e40b49?v=1c77f186568a80f0a675000cee07a9dc" target="_blank">
+</a><a href="https://irradiated-rule-1a1.notion.site/1c77f186568a8028b4b7d05602e40b49?v=1c77f186568a80f0a675000cee07a9dc" target="_blank">
   <img src="https://img.shields.io/badge/Room%20Challenges%20Writeups-red?style=for-the-badge&logo=internet-explorer&logoColor=white&logoWidth=30" alt="Room Challenges Writeups Badge">
 
 # 👋 Hello, I'm Abraham

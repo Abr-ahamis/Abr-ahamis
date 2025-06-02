@@ -1,11 +1,10 @@
 <a href="https://www.linkedin.com/in/abr-ahamis">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="Abr-ahamis.github.io" target="_blank">
+</a><a href="Abr-ahamis.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Room%20Challenges%20Writeups-red?style=for-the-badge&logo=internet-explorer&logoColor=white&logoWidth=30" alt="Room Challenges Writeups Badge">
 </a>
 
-<h2 style="text-decoration: none; font-weight: bold;">HI, I'm NeoVirex (Abr-ahamis)</h2>
+<h2 style="text-decoration: none; font-weight: bold;">HI, I'm Abraham (Abr-ahamis)</h2>
 
 <p>I'm a passionate and motivated individual with a deep interest in technology and cybersecurity. Having recently graduated, I am enthusiastic about applying my skills in penetration testing and security analysis. I am eager to leverage my knowledge to tackle real-world security challenges and contribute to safeguarding digital environments.</p>
 

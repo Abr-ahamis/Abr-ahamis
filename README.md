@@ -1,5 +1,5 @@
 
-# Abraham (Neo-virex)
+# Abraham (Neo)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abr-ahamis)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Neo-virex)

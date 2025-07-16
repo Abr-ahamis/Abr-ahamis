@@ -2,8 +2,8 @@
 # Abraham (Neo-virex)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abr-ahamis)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![CTF Writeups](https://img.shields.io/badge/CTF%20Writeups-D14836?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://abr-ahamis.vercel.app/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Neo-virex)
+[![CTF Writeups](https://img.shields.io/badge/CTF%20Writeups-D14836?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://neo-virex.vercel.app/)
 
 ## 🚀 About Me
 Aspiring cybersecurity professional focused on offensive security and defense. Passionate about penetration testing, vulnerability assessment, and real-world security challenges.
@@ -89,7 +89,6 @@ Aspiring cybersecurity professional focused on offensive security and defense. P
 | **[WebScanner](https://github.com/Abr-ahamis/WebScanner)** | OWASP Top 10 vulnerability scanner | Python, Regex |
 | **[Network Analyzer](https://github.com/Abr-ahamis/Network.py)** | Deep packet inspection tool | Scapy, Wireshark |
 | **[Keylogger Research](https://github.com/Abr-ahamis/Python-and-C-Keyloggers)** | Keylogger implementation study | C, JavaScript |
-
 ---
 
 ## 🌱 Currently Exploring
@@ -97,7 +96,5 @@ Aspiring cybersecurity professional focused on offensive security and defense. P
 - Malware Analysis
 - Purple Teaming Tactics
 - Threat Intelligence Platforms
-
-```
-
-
+  
+---

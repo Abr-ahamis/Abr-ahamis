@@ -2,8 +2,8 @@
 # Abraham (Neo)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abr-ahamis)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Neo-virex)
-[![CTF Writeups](https://img.shields.io/badge/CTF%20Writeups-D14836?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://neo-virex.vercel.app/)
+[![TryHackMe TOP 2% ](https://img.shields.io/badge/-TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Neo-virex)
+[![Blogs & CTF Writeups](https://img.shields.io/badge/CTF%20Writeups-D14836?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://neo-virex.vercel.app/)
 
 ## 🚀 About Me
 Aspiring cybersecurity professional focused on offensive security and defense. Passionate about penetration testing, vulnerability assessment, and real-world security challenges.
